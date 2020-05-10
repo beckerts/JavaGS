@@ -7,9 +7,8 @@ public class jge {
         JFrame frame = new JFrame("My First GUI");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(300, 300);
-        JLabel label = new JLabel("Hello, World!");
-        label.setHorizontalAlignment(JLabel.CENTER);
-        frame.getContentPane().add(label);
+        JButton button1 = new JButton("Press Me!");
+        frame.getContentPane().add(button1);
         frame.setVisible(true);
     }
 }
