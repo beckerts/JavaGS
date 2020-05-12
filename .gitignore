@@ -3,3 +3,5 @@
 / JUnitSample/ JUnit-Sample/build/
 MavenQS/qs/target/classes/piperpark/Calculator.class
 MavenQS/qs/target/test-classes/piperpark/CalculatorTest.class
+/JUnit-Sample/nbproject/private/
+/JUnit-Sample/build/
